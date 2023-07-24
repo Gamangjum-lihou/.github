@@ -67,7 +67,7 @@ hello 👋
     <br>
     <span> 2023.02.18 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a></span>
     <br>
-    <span> 2023.02.28 방학 </span>
+    <span> 2023.02.28 방학 🏖️</span>
     <br>
     <span> 2023.03.04 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a></span>
     <br>
@@ -100,7 +100,23 @@ hello 👋
     <br>
     <span> 2023.06.11 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
     <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
-    </span>
+    <br>
+    <span> 2023.06.16 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.06.24 방학 🏖️</span>
+    <br>
+    <span> 2023.07.01 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.07.08 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.07.16 Toss-Next Challenge 2023 리팩터링, 코드 리뷰 및 Effective typescript 적용해보기(대외비)</span>
+    <br>
+    <span> 2023.07.23 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
 </span>
 </details>
 
