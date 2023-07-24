@@ -131,11 +131,16 @@ hello 👋
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/890d9814-3db1-4746-b773-326817cfb1d2">
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/2de59c7e-f2dd-4f49-b333-9a3d2ff0e332">
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/0a5b29cd-9660-47cd-acad-cc4322c4ddcb">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/8b0f77d1-b4ad-4d42-b39c-7e4f17caddc4">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/3f1be0b7-b527-40df-87d9-22c9cfbe1a84">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/87322e75-ee28-41ce-9b6f-88236b458a38">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/599f73fe-b9ec-433f-9b9b-8f913aefa68b">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/595e53f2-0b71-45aa-b525-f4a8e38ed2c7">
+  <img width="300" height="350px" alt="507" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/8b0f77d1-b4ad-4d42-b39c-7e4f17caddc4">
+  <img width="300" height="350px" alt="514" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/3f1be0b7-b527-40df-87d9-22c9cfbe1a84">
+  <img width="300" height="350px" alt="521" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/87322e75-ee28-41ce-9b6f-88236b458a38">
+  <img width="300" height="350px" alt="528" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/599f73fe-b9ec-433f-9b9b-8f913aefa68b">
+  <img width="300" height="350px" alt="603" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/595e53f2-0b71-45aa-b525-f4a8e38ed2c7">
+  <img width="300" height="350px" alt="611" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/e930bd94-5ba9-459e-aead-7c30197b9d38">
+  <img width="300" height="350px" alt="616" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/62d7b806-4a16-45fc-b8df-d49d96b40462">
+  <img width="300" height="350px" alt="701" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/796a89f0-4583-419f-a91d-65f19ce595e8">
+  <img width="300" height="350px" alt="708" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/b8b72ff9-f5e8-4410-b97b-ee78c1512533">
+  <img width="300" height="350px" alt="716" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/34463f4f-4670-47b5-b474-460d1e83b8c6">
+  <img width="300" height="350px" alt="723" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/871e7df8-9e5b-4d30-8640-a377be953458">
 </details>
-
 
