@@ -101,8 +101,8 @@ hello 👋
     <span> 2023.06.11 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
     <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
     <br>
-    <span> 2023.06.16 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
-    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <span> 2023.06.16 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp 
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
     <br>
     <span> 2023.06.24 방학 🏖️</span>
     <br>
