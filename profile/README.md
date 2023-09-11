@@ -2,7 +2,7 @@
 hello 👋
 
 
-## 스터디 팀원 🎓
+## 현재 스터디 그룹 팀원 🎓
 
 <table>
   <tr height="140px">
@@ -11,38 +11,74 @@ hello 👋
         <img src="https://avatars1.githubusercontent.com/u/76567238" alt="Ryan-Dia" width="100" />
       </a>
       <br />
-      <a href="https://github.com/Ryan-Dia">Ryan-Dia 💻</a>
+      <a href="https://github.com/Ryan-Dia">철원 💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/SWARVY">
         <img src="https://avatars1.githubusercontent.com/u/53262430" alt="SWARVY" width="100" />
       </a>
       <br />
-      <a href="https://github.com/SWARVY">SWARVY 💻</a>
+      <a href="https://github.com/SWARVY">현호 💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bori-github">
         <img src="https://avatars.githubusercontent.com/u/85009583" alt="Bori-github" width="100" />
       </a>
       <br />
-      <a href="https://github.com/Bori-github">Bori-github 💻</a>
+      <a href="https://github.com/Bori-github">보리 💻</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chee9835">
-        <img src="https://avatars.githubusercontent.com/u/100351462" alt="chee9835" width="100" />
+      <a href="https://github.com/hannaax">
+        <img src="https://avatars.githubusercontent.com/u/111215320?v=4" alt="한나" width="100" />
       </a>
       <br />
-      <a href="https://github.com/chee9835">chee9835 💻</a>
+      <a href="https://github.com/hannaax">한나 💻</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leemainsw">
-        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48716775?v=4"/>
+      <a href="https://github.com/BaxDailyGit">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/99312529?v=4"/>
        </a>
       <br />
-      <a href="https://github.com/Leemainsw">Leemainsw 💻</a>
+      <a href="https://github.com/BaxDailyGit">승진 💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/limvik">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u//37972432?v=4"/>
+       </a>
+      <br />
+      <a href="https://github.com/limvik">성국 💻</a>
     </td>
   </tr>
 </table>
+
+<details>
+    <summary>지난 스터티 그룹 팀원</summary>
+    <table>
+     <tr height="140px">
+      <td align="center">
+        <a href="https://github.com/D0Dam">
+          <img src="https://avatars.githubusercontent.com/u/51052049?v=4" alt="D0Dam" width="100" />
+        </a>
+        <br />
+        <a href="https://github.com/D0Dam">민재 💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/chee9835">
+          <img src="https://avatars.githubusercontent.com/u/100351462" alt="chee9835" width="100" />
+        </a>
+        <br />
+        <a href="https://github.com/chee9835">희수 💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Leemainsw">
+          <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48716775?v=4"/>
+         </a>
+        <br />
+        <a href="https://github.com/Leemainsw">예슬 💻</a>
+      </td>
+    </tr>
+  </table>
+</details>
 
 
 <details>
@@ -67,7 +103,7 @@ hello 👋
     <br>
     <span> 2023.02.18 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a></span>
     <br>
-    <span> 2023.02.28 방학 🏖️</span>
+    <span> 2023.02.28 방학 </span>
     <br>
     <span> 2023.03.04 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a></span>
     <br>
@@ -100,23 +136,7 @@ hello 👋
     <br>
     <span> 2023.06.11 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
     <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
-    <br>
-    <span> 2023.06.16 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp 
-    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
-    <br>
-    <span> 2023.06.24 방학 🏖️</span>
-    <br>
-    <span> 2023.07.01 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
-    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
-    <br>
-    <span> 2023.07.08 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
-    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
-    <br>
-    <span> 2023.07.16 Toss-Next Challenge 2023 리팩터링, 코드 리뷰 및 Effective typescript 적용해보기(대외비)</span>
-    <br>
-    <span> 2023.07.23 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
-    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
-    <br>
+    </span>
 </span>
 </details>
 
@@ -131,16 +151,10 @@ hello 👋
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/890d9814-3db1-4746-b773-326817cfb1d2">
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/2de59c7e-f2dd-4f49-b333-9a3d2ff0e332">
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/0a5b29cd-9660-47cd-acad-cc4322c4ddcb">
-  <img width="300" height="350px" alt="507" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/8b0f77d1-b4ad-4d42-b39c-7e4f17caddc4">
-  <img width="300" height="350px" alt="514" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/3f1be0b7-b527-40df-87d9-22c9cfbe1a84">
-  <img width="300" height="350px" alt="521" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/87322e75-ee28-41ce-9b6f-88236b458a38">
-  <img width="300" height="350px" alt="528" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/599f73fe-b9ec-433f-9b9b-8f913aefa68b">
-  <img width="300" height="350px" alt="603" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/595e53f2-0b71-45aa-b525-f4a8e38ed2c7">
-  <img width="300" height="350px" alt="611" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/e930bd94-5ba9-459e-aead-7c30197b9d38">
-  <img width="300" height="350px" alt="616" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/62d7b806-4a16-45fc-b8df-d49d96b40462">
-  <img width="300" height="350px" alt="701" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/796a89f0-4583-419f-a91d-65f19ce595e8">
-  <img width="300" height="350px" alt="708" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/b8b72ff9-f5e8-4410-b97b-ee78c1512533">
-  <img width="300" height="350px" alt="716" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/34463f4f-4670-47b5-b474-460d1e83b8c6">
-  <img width="300" height="350px" alt="723" src="https://github.com/Gamangjum-lihou/.github/assets/76567238/871e7df8-9e5b-4d30-8640-a377be953458">
+  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/8b0f77d1-b4ad-4d42-b39c-7e4f17caddc4">
+  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/3f1be0b7-b527-40df-87d9-22c9cfbe1a84">
+  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/87322e75-ee28-41ce-9b6f-88236b458a38">
+  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/599f73fe-b9ec-433f-9b9b-8f913aefa68b">
+  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/595e53f2-0b71-45aa-b525-f4a8e38ed2c7">
 </details>
 
