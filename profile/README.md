@@ -80,6 +80,40 @@ hello 👋
   </table>
 </details>
 
+<br>
+
+---
+
+## 🚀 운영중인 스터디 
+
+### 📚 Book Study
+>단순히 읽고 요약 정리하는 스터디가 아닌 읽으며 추가적인 궁금증은 찾아보고 정리해서 해당내용을 발표하고 코드에 적용해보는 연습까지 하는 스터디 입니다.
+
+|   | Book name       | Date                    |  Note |
+|:---:|:------------------:|:-------------------------:|:--: |
+| 1 | [이펙티브 타입스크립트](https://github.com/Gamangjum-lihou/effective-typescript-study/wiki/Season-1) | 2022.12.23 - 2023.04.08 |Season 1 |
+| 2 | [이펙티브 타입스크립트](https://github.com/Gamangjum-lihou/effective-typescript-study/wiki) | 2022.04.10 - 2023.09.02 |Season 2 |
+| 3 | [리팩터링 2판](https://github.com/Gamangjum-lihou/refactoring-study)      | Preparing            | |
+|||||
+
+
+### 📚 Blog Study
+>매주 블로그를 작성하면서 공부한 기록을 남기고, 공유합니다.
+
+|   | study      | Date                    |  Note |
+|:---:|:------------------:|:-------------------------:|:--: |
+| 1 | [study-log-archive](https://github.com/Gamangjum-lihou/study-log-archive/wiki/2023_First-season) | 2023.05 - 2023.08 |Season 1 |
+| 2 | [study-log-archive](https://github.com/Gamangjum-lihou/study-log-archive) | 2023.09 - 2023.12 |Season 2 |
+| 3 | study-log-archive | 2024.01 - 2024.03 |Season 3 |
+
+
+### 📚 Coding Test Study
+>우리 스터디는 함께 배우고 성장하는 공간입니다. 단순한 문제 풀기가 아니라, 왜이렇게 설계하였는지, 사이드 이펙트가 발생할만한 부분이 있는지, 클린 코딩에 대한 고민, 몰랐던 개념등을 공유하고 토론하며 더 나은 프로그래머로 성장하는 것이 목표입니다.
+
+|   | study      | Date                    |  Note |
+|:---:|:------------------:|:-------------------------:|:--: |
+| 1 | [coding-test-study](https://github.com/Gamangjum-lihou/coding-test-study) | 2023.01 - now | |
+
 
 <details>
     <summary>스터디 일정</summary>
@@ -157,4 +191,3 @@ hello 👋
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/599f73fe-b9ec-433f-9b9b-8f913aefa68b">
   <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/595e53f2-0b71-45aa-b525-f4a8e38ed2c7">
 </details>
-
