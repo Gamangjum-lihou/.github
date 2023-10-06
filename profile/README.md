@@ -35,18 +35,25 @@ hello 👋
       <a href="https://github.com/hannaax">한나 💻</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BaxDailyGit">
-        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/99312529?v=4"/>
-       </a>
-      <br />
-      <a href="https://github.com/BaxDailyGit">승진 💻</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/limvik">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u//37972432?v=4"/>
        </a>
       <br />
       <a href="https://github.com/limvik">성국 💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/706com">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/104816530?v=4"/>
+       </a>
+      <br />
+      <a href="https://github.com/BaxDailyGit">동현 💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ujin2021">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/53362054?v=4"/>
+       </a>
+      <br />
+      <a href="https://github.com/BaxDailyGit">유진 💻</a>
     </td>
   </tr>
 </table>
@@ -76,6 +83,13 @@ hello 👋
         <br />
         <a href="https://github.com/Leemainsw">예슬 💻</a>
       </td>
+      <td align="center">
+      <a href="https://github.com/BaxDailyGit">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/99312529?v=4"/>
+       </a>
+      <br />
+      <a href="https://github.com/BaxDailyGit">승진 💻</a>
+    </td>
     </tr>
   </table>
 </details>
