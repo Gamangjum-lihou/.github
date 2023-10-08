@@ -46,14 +46,14 @@ hello 👋
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/104816530?v=4"/>
        </a>
       <br />
-      <a href="https://github.com/BaxDailyGit">동현 💻</a>
+      <a href="https://github.com/706com">동현 💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/ujin2021">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/53362054?v=4"/>
        </a>
       <br />
-      <a href="https://github.com/BaxDailyGit">유진 💻</a>
+      <a href="https://github.com/ujin2021">유진 💻</a>
     </td>
   </tr>
 </table>
