@@ -184,24 +184,59 @@ hello 👋
     <br>
     <span> 2023.06.11 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
     <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.06.16 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
     </span>
+    <br>
+    <span> 2023.07.01 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.07.08 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>\
+    <br>
+    <span> 2023.07.16 Toss-Next Chanllenge 2023 코드 리뷰 및 Effective typescript 적용(챌린지 과제 공개 금지여서 비공개)</span>
+    <br>
+    <span> 2023.07.23 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.07.30 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.08.06 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.08.13 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.08.20 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.08.27 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.09.03 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.09.10 <a href="https://github.com/Gamangjum-lihou/effective-typescript-study">Effective Typescript</a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.09.17 <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.09.24 <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.09.30 <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+    <br>
+    <span> 2023.10.08 <a href="https://github.com/Gamangjum-lihou/coding-test-study"> Codding Test</a>
+    <a href="https://github.com/Gamangjum-lihou/study-log-archive"></a> &nbsp / &nbsp <a href="https://github.com/Gamangjum-lihou/study-log-archive">Study Log Archive</a></span>
+
+    
+    
 </span>
 </details>
 
 
-<details>
-   <summary>스터디 공지</summary>
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/cce4bfc0-427f-41ab-959b-7bca02ab4ea0">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/f7fe311b-3606-4bce-99df-bd48d060b835">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/960135be-b44a-48a0-9ac1-a8677e41b7c5">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/687be9c7-61ec-4ef7-89ed-424fd4b39118">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/74e9e7b3-93c3-4306-bc1d-7d903677dbee">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/890d9814-3db1-4746-b773-326817cfb1d2">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/2de59c7e-f2dd-4f49-b333-9a3d2ff0e332">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/0a5b29cd-9660-47cd-acad-cc4322c4ddcb">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/8b0f77d1-b4ad-4d42-b39c-7e4f17caddc4">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/3f1be0b7-b527-40df-87d9-22c9cfbe1a84">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/87322e75-ee28-41ce-9b6f-88236b458a38">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/599f73fe-b9ec-433f-9b9b-8f913aefa68b">
-  <img width="300" height="350px" alt="image" src="https://github.com/Gamangjum-lihou/.github-private/assets/76567238/595e53f2-0b71-45aa-b525-f4a8e38ed2c7">
-</details>
+
