@@ -42,13 +42,6 @@ hello 👋
       <a href="https://github.com/limvik">성국 💻</a>
     </td>
     <td align="center">
-      <a href="https://github.com/706com">
-        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/104816530?v=4"/>
-       </a>
-      <br />
-      <a href="https://github.com/706com">동현 💻</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ujin2021">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/53362054?v=4"/>
        </a>
