@@ -119,7 +119,7 @@ hello 👋
 
 |   | study      | Date                    |  Note |
 |:---:|:------------------:|:-------------------------:|:--: |
-| 1 | [coding-test-study](https://github.com/Gamangjum-lihou/coding-test-study) | 2023.01 - now | |
+| 1 | [coding-test-study](https://github.com/Gamangjum-lihou/coding-test-study) | 2023.01 - 2023.10| |
 
 
 <details>
