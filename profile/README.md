@@ -28,15 +28,15 @@ hello 👋
       <a href="https://github.com/Bori-github">보리 💻</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hannaax">
-        <img src="https://avatars.githubusercontent.com/u/111215320?v=4" alt="한나" width="100" />
+      <a href="https://github.com/DAHLIACHOI">
+        <img src="https://avatars.githubusercontent.com/u/48826098?v=4" alt="예지" width="100" />
       </a>
       <br />
-      <a href="https://github.com/hannaax">한나 💻</a>
+      <a href="https://github.com/DAHLIACHOI">예지 💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/limvik">
-        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u//37972432?v=4"/>
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/37972432?v=4"/>
        </a>
       <br />
       <a href="https://github.com/limvik">성국 💻</a>
@@ -48,44 +48,22 @@ hello 👋
       <br />
       <a href="https://github.com/ujin2021">유진 💻</a>
     </td>
+     <td align="center">
+      <a href="https://github.com/hyejj19">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/89173923?v=4"/>
+       </a>
+      <br />
+      <a href="https://github.com/hyejj19">혜정 💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wl2258">
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/77067383?v=4"/>
+       </a>
+      <br />
+      <a href="https://github.com/wl2258">지민 💻</a>
   </tr>
 </table>
 
-<details>
-    <summary>지난 스터티 그룹 팀원</summary>
-    <table>
-     <tr height="140px">
-      <td align="center">
-        <a href="https://github.com/D0Dam">
-          <img src="https://avatars.githubusercontent.com/u/51052049?v=4" alt="D0Dam" width="100" />
-        </a>
-        <br />
-        <a href="https://github.com/D0Dam">민재 💻</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/chee9835">
-          <img src="https://avatars.githubusercontent.com/u/100351462" alt="chee9835" width="100" />
-        </a>
-        <br />
-        <a href="https://github.com/chee9835">희수 💻</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Leemainsw">
-          <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48716775?v=4"/>
-         </a>
-        <br />
-        <a href="https://github.com/Leemainsw">예슬 💻</a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/BaxDailyGit">
-        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/99312529?v=4"/>
-       </a>
-      <br />
-      <a href="https://github.com/BaxDailyGit">승진 💻</a>
-    </td>
-    </tr>
-  </table>
-</details>
 
 <br>
 
